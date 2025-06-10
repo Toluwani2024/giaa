@@ -1,0 +1,11 @@
+.carousel-section {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.carousel-img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+}
