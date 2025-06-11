@@ -5,7 +5,7 @@ const Contact = () => {
       <p>
         Phone / WhatsApp:{" "}
         <a
-          href="https://wa.me/2348129191795"
+          href="https://wa.me/23482191795"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -15,11 +15,11 @@ const Contact = () => {
       <p>
         Instagram:{" "}
         <a
-          href="https://instagram.com/that_bigTobs"
+          href="https://instagram.com/giaa_fashionhub"
           target="_blank"
           rel="noopener noreferrer"
         >
-          @that_bigTobs
+          @giaa_fashionhub
         </a>
       </p>
        <p>

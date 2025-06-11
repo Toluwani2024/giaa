@@ -7,7 +7,7 @@ const Hero = () => {
        <img src={logo} alt="Business Logo" className="logo" />
       <h1> <strong>God is an Artist</strong> </h1>
       <p>"Make it Make Sense"</p>
-      <a href="https://wa.me/234xxxxxxxxxxx" target="_blank" rel="noopener noreferrer">
+      <a href="https://wa.me/23482191795" target="_blank" rel="noopener noreferrer">
         <button>Chat on WhatsApp</button>
       </a>
     </section>

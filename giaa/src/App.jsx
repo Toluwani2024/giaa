@@ -16,7 +16,7 @@ const App = () => {
       <section className="cta">
   <h2>Ready to elevate your style?</h2>
   <p>Let GIAA bring your look to life — DM to order.</p>
-  <a href="https://wa.me/234XXXXXXXXXX" target="_blank">
+  <a href="https://wa.me/23482191795" target="_blank">
     <button>Order Now</button>
   </a>
 </section>
